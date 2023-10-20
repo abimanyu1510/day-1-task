@@ -1,0 +1,8 @@
+Write a blog about objects and it's internal representation in JavaScript?
+
+An object is a collection of related data (or)funtionality.These usually consist of several variables and functions.
+Objects is a "reference data type".
+It is most important data-type and forms the "building blocks" for modern JavaScript.
+These objects are quite different from JavaScript primitive data-types(Numbers,String,Boolean,undefined and Symbols).
+Properties of javascript objects can also accessed or set using the bracket notation.
+Objects are sometimes called associative arrays ,Since each property is associated with string value that can be used to access it.
