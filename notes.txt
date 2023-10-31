@@ -1,0 +1,25 @@
+//Q2:Write a blog on Difference between HTTP1.1 and HTTP2 ?
+
+HTTP/1.1 :
+The First usable version of HTTP was created in 1997,this HTTP was called HTTP/1.1.
+It works on textual format.
+There is head line blocking that blocks all the requests behind it until it doesn't get its all resources.
+It uses requests resource inlining for use getting multiple pages.
+It compresses data by itself.
+
+HTTP/2 :
+HTTP/2 was created in 2015.
+HTTP/2 more faster and more efficient than HTTP/1.1.
+It works on the Binary protocol.
+It allows multiplexing so on TCP connection is required for multiple requests.
+It uses PUSH frame by server that collects all multiple pages.
+It uses HPACK for data compression.
+//---------------------------------------------------
+//Q2:Write a blog about objects and it's internal representation in JavaScript?
+
+An object is a collection of related data (or)funtionality.These usually consist of several variables and functions.
+Objects is a "reference data type".
+It is most important data-type and forms the "building blocks" for modern JavaScript.
+These objects are quite different from JavaScript primitive data-types(Numbers,String,Boolean,undefined and Symbols).
+Properties of javascript objects can also accessed or set using the bracket notation.
+Objects are sometimes called associative arrays ,Since each property is associated with string value that can be used to access it.
