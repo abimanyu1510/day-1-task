@@ -1,4 +1,4 @@
-//Q2:Write a blog on Difference between HTTP1.1 and HTTP2 ?
+//Q1:Write a blog on Difference between HTTP1.1 and HTTP2 ?
 
 HTTP/1.1 :
 The First usable version of HTTP was created in 1997,this HTTP was called HTTP/1.1.
